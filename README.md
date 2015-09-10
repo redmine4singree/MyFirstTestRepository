@@ -1,1 +1,2 @@
 # MyFirstTestRepository
+Подключил хранилище - проверяем
